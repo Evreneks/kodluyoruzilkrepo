@@ -5,7 +5,7 @@ Bu repo [Kodluyoruz]() Front-End Eğitiminde oluşturduğumuz ilk repo. İçeris
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```
-git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
+git clone https://github.com/Evreneks/kodluyoruzilkrepo
 ```
 
 ## Usage
